@@ -1,7 +1,7 @@
 coin_collecting:
   - nerdy
   - lame
-  - solo 
+  - solo
   - expensive
   - collecting
   - coins
@@ -9,16 +9,16 @@ coin_collecting:
   - indoor
 stamp_collecting:
   - nerdy
-  - lame  
+  - lame
   - solo
   - expensive
-  - collecting 
+  - collecting
   - stamps
   - history
   - indoor
 memorbilia_collecting:
   - nerdy
-  - lame 
+  - lame
   - solo
   - expensive
   - collecting
@@ -28,7 +28,7 @@ memorbilia_collecting:
 clock_collecting:
   - nerdy
   - lame
-  - solo  
+  - solo
   - expensive
   - collecting
   - clock
@@ -36,7 +36,7 @@ clock_collecting:
   - indoor
 sports_cards_collecting:
   - nerdy
-  - awesome 
+  - awesome
   - solo
   - expensive
   - collecting
@@ -45,94 +45,94 @@ sports_cards_collecting:
   - sports
   - indoor
 model_trains_collecting:
-  - nerdy 
+  - nerdy
   - lame
-  - solo  
+  - solo
   - expensive
   - collecting
   - model trains
   - toys
   - indoor
 antique_collecting:
-  - nerdy 
+  - nerdy
   - lame
-  - solo  
+  - solo
   - expensive
   - collecting
   - antiques
   - history
   - indoor
 artwork_collecting:
-  - nerdy 
+  - nerdy
   - lame
-  - solo  
+  - solo
   - expensive
   - collecting
-  - art 
+  - art
   - history
   - indoor
 cd/album_collecting:
-  - nerdy 
-  - awesome 
-  - solo  
+  - nerdy
+  - awesome
+  - solo
   - expensive
   - collecting
-  - cd/album 
+  - cd/album
   - history
   - indoor
 poster_collecting:
-  - nerdy 
-  - awesome 
-  - solo  
+  - nerdy
+  - awesome
+  - solo
   - expensive
   - collecting
-  - poster 
+  - poster
   - art
   - history
   - indoor
 insect_collecting:
-  - nerdy 
+  - nerdy
   - lame
-  - solo  
-  - dangerous 
+  - solo
+  - dangerous
   - collecting
-  - insect 
+  - insect
   - animal
   - indoor
 wine_collecting:
-  - nerdy 
-  - awesome 
-  - solo  
+  - nerdy
+  - awesome
+  - solo
   - expensive
   - collecting
-  - wine 
+  - wine
   - alcohol
   - history
   - indoor
 snow_globes_collecting:
-  - nerdy 
+  - nerdy
   - lame
-  - solo  
+  - solo
   - expensive
   - collecting
-  - snow globe 
+  - snow globe
   - glass
   - art
   - indoor
-book_collecting: 
-  - nerdy 
+book_collecting:
+  - nerdy
   - lame
-  - solo  
+  - solo
   - expensive
   - collecting
-  - book 
+  - book
   - indoor
   - history
   - novel
 sword_collecting:
-  - nerdy 
-  - awesome 
-  - solo  
+  - nerdy
+  - awesome
+  - solo
   - expensive
   - collecting
   - sword
@@ -146,7 +146,7 @@ movie_collecting:
   - cheap
   - collecting
   - movies
-  - television 
+  - television
   - indoor
 bottles:
   - nerdy
@@ -171,14 +171,14 @@ classic_video_games_collecting:
 comic_books_collecting:
   - nerdy
   - awesome
-  - indoor  
+  - indoor
   - expensive
   - collecting
   - comic books
 crystals/rocks_collecting:
   - nerdy
   - awesome
-  - indoor  
+  - indoor
   - expensive
   - collecting
   - crystals
@@ -191,4 +191,3 @@ currency_collecting:
   - collecting
   - money
   - currency
- 
