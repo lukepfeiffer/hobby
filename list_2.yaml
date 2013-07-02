@@ -1,0 +1,98 @@
+astronomy:
+        -nerdy
+        -outdoors
+        -night only
+        -stalker gear
+        -telescope
+        -solo
+        -expensive
+        -science
+microscopy:
+        -nerdy
+        -lame
+        -indoors
+        -microscope
+        -germs
+        -solo
+        -expensive
+        -science
+model_rocketry:
+        -nerdy
+        -aerodynamic
+        -weather dependant
+        -outdoors
+        -day only
+        -telescope
+        -engineer
+        -expensive
+        -science
+model_airplanes:
+        -nerdy
+        -weather dependant
+        -aerodynamic
+        -outdoors
+        -day only
+        -engineer
+        -expensive
+        -science
+electronics:
+        -nerdy
+        -indoors
+        -fragile
+        -time consuming
+        -engineer
+        -expensive
+        -electronic
+        -science
+telescope_makeing:
+        -nerdy
+        -indoors
+        -time consuming
+        -telescope
+        -expensive
+        -science
+spelunking:
+        -dangerous
+        -climbing
+        -water
+        -geological
+        -expensive
+        -time consuming
+        -outdoors
+        -science
+rock_collecting:
+        -nerdy
+        -outdoors
+        -geological
+        -expensive
+        -microscope
+        -climbing
+        -science
+
+
+amateur_and_ham_radio:
+        -nerdy
+        -indoors
+        -social
+        -expensive
+        -electronic
+        -old people
+        -exclusive
+cb_radio:
+        -nerdy
+        -indoors
+        -social
+        -annoying
+        -expensive
+        -electronic
+        -foreign
+building_circuits:
+        -nerdy
+        -indoors
+        -annoying
+        -expensive
+        -electronic
+robotics:
+        -nerdy
+        -indoors
+        -expensive
