@@ -7,5 +7,5 @@ get '/' do
 end
 
 def questions
-  ["hello"]
+  [" What is your name?", "Who are you?", "How old are you?", "Are you stupid?"]
 end
