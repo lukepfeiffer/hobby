@@ -158,7 +158,7 @@ bottles:
   - glass
   - history
   - indoor
-classic_video_games_collecting:
+classicxoensive_video_games_collecting:
   - nerdy
   - awesome
   - indoor
@@ -191,3 +191,56 @@ currency_collecting:
   - collecting
   - money
   - currency
+basketball:
+  - outdoor
+  - inexpensive
+  - team
+  - physically intense
+  - court
+football:
+  - outdoor
+  - team
+  - expensive
+  - physically intense 
+  - dangerous
+  - field
+  - lame
+soccer:
+  - outdoor
+  - team
+  - physically intense
+  - field
+  - foot sport
+  - fun
+  - inexpensive
+skateboarding:
+  - outdoor
+  - solo
+  - physically intense
+  - concrete
+  - foot sport
+  - dangerous
+  - fun
+  - inexpensive
+surfing:
+  - outdoor
+  - solo
+  - water sport
+  - foot sport
+  - fun
+  - dangerous
+  - exxpensive
+skimboarding:
+  - outdoor
+  - solo
+  - water sport
+  - fun
+  - foot sport
+  - expensive
+rollerblading:
+  - outdoor
+  - solo
+  - concrete 
+  - lame
+  - foot sport
+  - inexpensive
