@@ -18,9 +18,11 @@ microscopy:
         -science
 model_rocketry:
         -nerdy
+        -aviation
         -aerodynamic
         -weather dependant
         -outdoors
+        -model
         -day only
         -telescope
         -engineer
@@ -29,6 +31,7 @@ model_rocketry:
 model_airplanes:
         -nerdy
         -weather dependant
+        -aviation
         -aerodynamic
         -outdoors
         -day only
@@ -49,9 +52,11 @@ telescope_makeing:
         -indoors
         -time consuming
         -telescope
+        -makeing
         -expensive
         -science
 spelunking:
+        -cool
         -dangerous
         -climbing
         -water
@@ -61,7 +66,7 @@ spelunking:
         -outdoors
         -science
 rock_collecting:
-        -nerdy
+        -cool
         -outdoors
         -geological
         -expensive
@@ -96,3 +101,78 @@ robotics:
         -nerdy
         -indoors
         -expensive
+        -annoying
+        -robots
+home_theatre:
+        -nerdy
+        -dramatic
+        -entertainment
+        -indoors
+        -expensive
+        -electronic
+home_automation:
+        -cool
+        -lazy
+        -comfort
+        -expensive
+        -indoors
+        -electronic
+r/c_cars:
+        -nerdy
+        -entertainment
+        -remote_control
+        -car_models
+        -expensive
+        model
+        -electronic
+r/c_boats:
+        -nerdy
+        -entertainment
+        -remote_control
+        -boat_models
+        -model
+        -outdoors
+        -weather dependant
+        -expensive
+        -electronic
+r/c_planes:
+        -nerdy
+        -entertainment
+        -weather dependant
+        -aviation
+        -remote_control
+        -plane_models
+        -model
+        -outdoors
+        -expensive
+        -electronic
+r/c_helicopters:
+        -nerdy
+        -aviation
+        -weather dependant
+        -entertainment
+        -remote_control
+        -helicopter_models
+        -model
+        -outdoors
+        -expensive
+        -electronic
+blacksmithing:
+        -cool
+        -outdoors
+        -fordge
+        -time consuming
+        -manliness
+        -weapons
+        -expensive
+        -makeing
+knifemaking:
+        -cool
+        -time consuming
+        -outdoors
+        -fordge
+        -manliness
+        -weapons
+        -expensive
+        -knife
+        -makeing
