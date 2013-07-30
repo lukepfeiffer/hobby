@@ -1,11 +1,12 @@
 require 'sinatra'
-
+require 'yaml'
+require 'pry'
 
 get '/' do
-  @questions = questions
+	@hobbies = hobby_list
   haml :home
 end
 
-def questions
-  [" What is your name?", "Who are you?", "How old are you?", "Are you stupid?"]
+def hobby_list
+	YAML.load_file('list.yaml')
 end
