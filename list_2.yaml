@@ -1,178 +1,178 @@
 astronomy:
-        -nerdy
-        -outdoors
-        -night only
-        -stalker gear
-        -telescope
-        -solo
-        -expensive
-        -science
+        - nerdy
+        - outdoors
+        - night only
+        - stalker gear
+        - telescope
+        - solo
+        - expensive
+        - science
 microscopy:
-        -nerdy
-        -lame
-        -indoors
-        -microscope
-        -germs
-        -solo
-        -expensive
-        -science
+        - nerdy
+        - lame
+        - indoors
+        - microscope
+        - germs
+        - solo
+        - expensive
+        - science
 model_rocketry:
-        -nerdy
-        -aviation
-        -aerodynamic
-        -weather dependant
-        -outdoors
-        -model
-        -day only
-        -telescope
-        -engineer
-        -expensive
-        -science
+        - nerdy
+        - aviation
+        - aerodynamic
+        - weather dependant
+        - outdoors
+        - model
+        - day only
+        - telescope
+        - engineer
+        - expensive
+        - science
 model_airplanes:
-        -nerdy
-        -weather dependant
-        -aviation
-        -aerodynamic
-        -outdoors
-        -day only
-        -engineer
-        -expensive
-        -science
+        - nerdy
+        - weather dependant
+        - aviation
+        - aerodynamic
+        - outdoors
+        - day only
+        - engineer
+        - expensive
+        - science
 electronics:
-        -nerdy
-        -indoors
-        -fragile
-        -time consuming
-        -engineer
-        -expensive
-        -electronic
-        -science
+        - nerdy
+        - indoors
+        - fragile
+        - time consuming
+        - engineer
+        - expensive
+        - electronic
+        - science
 telescope_makeing:
-        -nerdy
-        -indoors
-        -time consuming
-        -telescope
-        -makeing
-        -expensive
-        -science
+        - nerdy
+        - indoors
+        - time consuming
+        - telescope
+        - makeing
+        - expensive
+        - science
 spelunking:
-        -cool
-        -dangerous
-        -climbing
-        -water
-        -geological
-        -expensive
-        -time consuming
-        -outdoors
-        -science
+        - cool
+        - dangerous
+        - climbing
+        - water
+        - geological
+        - expensive
+        - time consuming
+        - outdoors
+        - science
 rock_collecting:
-        -cool
-        -outdoors
-        -geological
-        -expensive
-        -microscope
-        -climbing
-        -science
+        - cool
+        - outdoors
+        - geological
+        - expensive
+        - microscope
+        - climbing
+        - science
 
 
 amateur_and_ham_radio:
-        -nerdy
-        -indoors
-        -social
-        -expensive
-        -electronic
-        -old people
-        -exclusive
+        - nerdy
+        - indoors
+        - social
+        - expensive
+        - electronic
+        - old people
+        - exclusive
 cb_radio:
-        -nerdy
-        -indoors
-        -social
-        -annoying
-        -expensive
-        -electronic
-        -foreign
+        - nerdy
+        - indoors
+        - social
+        - annoying
+        - expensive
+        - electronic
+        - foreign
 building_circuits:
-        -nerdy
-        -indoors
-        -annoying
-        -expensive
-        -electronic
+        - nerdy
+        - indoors
+        - annoying
+        - expensive
+        - electronic
 robotics:
-        -nerdy
-        -indoors
-        -expensive
-        -annoying
-        -robots
+        - nerdy
+        - indoors
+        - expensive
+        - annoying
+        - robots
 home_theatre:
-        -nerdy
-        -dramatic
-        -entertainment
-        -indoors
-        -expensive
-        -electronic
+        - nerdy
+        - dramatic
+        - entertainment
+        - indoors
+        - expensive
+        - electronic
 home_automation:
-        -cool
-        -lazy
-        -comfort
-        -expensive
-        -indoors
-        -electronic
+        - cool
+        - lazy
+        - comfort
+        - expensive
+        - indoors
+        - electronic
 r/c_cars:
-        -nerdy
-        -entertainment
-        -remote_control
-        -car_models
-        -expensive
-        model
-        -electronic
+        - nerdy
+        - entertainment
+        - remote_control
+        - car_models
+        - expensive
+        - model
+        - electronic
 r/c_boats:
-        -nerdy
-        -entertainment
-        -remote_control
-        -boat_models
-        -model
-        -outdoors
-        -weather dependant
-        -expensive
-        -electronic
+        - nerdy
+        - entertainment
+        - remote_control
+        - boat_models
+        - model
+        - outdoors
+        - weather dependant
+        - expensive
+        - electronic
 r/c_planes:
-        -nerdy
-        -entertainment
-        -weather dependant
-        -aviation
-        -remote_control
-        -plane_models
-        -model
-        -outdoors
-        -expensive
-        -electronic
+        - nerdy
+        - entertainment
+        - weather dependant
+        - aviation
+        - remote_control
+        - plane_models
+        - model
+        - outdoors
+        - expensive
+        - electronic
 r/c_helicopters:
-        -nerdy
-        -aviation
-        -weather dependant
-        -entertainment
-        -remote_control
-        -helicopter_models
-        -model
-        -outdoors
-        -expensive
-        -electronic
+        - nerdy
+        - aviation
+        - weather dependant
+        - entertainment
+        - remote_control
+        - helicopter_models
+        - model
+        - outdoors
+        - expensive
+        - electronic
 blacksmithing:
-        -cool
-        -outdoors
-        -fordge
-        -time consuming
-        -manliness
-        -weapons
-        -expensive
-        -makeing
+        - cool
+        - outdoors
+        - fordge
+        - time consuming
+        - manliness
+        - weapons
+        - expensive
+        - makeing
 knifemaking:
-        -cool
-        -time consuming
-        -outdoors
-        -fordge
-        -manliness
-        -weapons
-        -expensive
-        -knife
-        -makeing
+        - cool
+        - time consuming
+        - outdoors
+        - fordge
+        - manliness
+        - weapons
+        - expensive
+        - knife
+        - makeing
