@@ -2,5 +2,22 @@
 %html
   %head
     %script(src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js")
+    :css
+      a{
+      font-size: 14px;
+      font-weight: bold;
+      display: inline-block;
+      border-radius: 6px;
+      padding: 8px 14px 9px;
+      margin: 1px;
+      color: white;
+      background-color: #91BD09;
+      box-shadow: 0px 1px 3px #888888;
+      text-shadow: 0px -1px 1px #888888;
+      font-family: Arial;
+      } 
+      a:hover{
+      background-color: #57bd33;
+      }
   %body
     = yield 

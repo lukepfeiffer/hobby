@@ -47,12 +47,12 @@ electronics:
         - expensive
         - electronic
         - science
-telescope_makeing:
+telescope_making:
         - nerdy
         - indoors
         - time consuming
         - telescope
-        - makeing
+        - making
         - expensive
         - science
 spelunking:
@@ -120,16 +120,16 @@ home_automation:
 r/c_cars:
         - nerdy
         - entertainment
-        - remote_control
-        - car_models
+        - remote control
+        - car models
         - expensive
         - model
         - electronic
 r/c_boats:
         - nerdy
         - entertainment
-        - remote_control
-        - boat_models
+        - remote control
+        - boat models
         - model
         - outdoors
         - weather dependant
@@ -140,8 +140,8 @@ r/c_planes:
         - entertainment
         - weather dependant
         - aviation
-        - remote_control
-        - plane_models
+        - remote control
+        - plane models
         - model
         - outdoors
         - expensive
@@ -151,8 +151,8 @@ r/c_helicopters:
         - aviation
         - weather dependant
         - entertainment
-        - remote_control
-        - helicopter_models
+        - remote control
+        - helicopter models
         - model
         - outdoors
         - expensive
@@ -160,7 +160,7 @@ r/c_helicopters:
 blacksmithing:
         - cool
         - outdoors
-        - fordge
+        - forge
         - time consuming
         - manliness
         - weapons
@@ -170,7 +170,7 @@ knifemaking:
         - cool
         - time consuming
         - outdoors
-        - fordge
+        - forge
         - manliness
         - weapons
         - expensive
