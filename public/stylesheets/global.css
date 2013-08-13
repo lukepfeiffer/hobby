@@ -1,0 +1,31 @@
+a{
+	font-size: 14px;
+	font-weight: bold;
+	display: inline-block;
+	border-radius: 6px;
+	padding: 8px 14px 9px;
+	margin: 1px;
+	color: white;
+	background-color: #91bd09;
+	box-shadow: 0px 1px 3px #888888;
+	text-shadow: 0px -1px 1px #888888;
+	font-family: arial;
+} 
+
+a:hover{
+	background-color: #57bd33;
+}
+
+.labels{
+	width: 50%;
+}
+
+h1{
+	padding: 100px;
+	text-align: center;
+	background: -webkit-linear-gradient( #128215, #0c590e);
+	font-family: sans-serif;
+	color: white;
+	font-size: 45px;
+	font-weight: normal;
+}
