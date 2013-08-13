@@ -5,7 +5,7 @@ require 'json'
 
 get '/' do
 	@hobbies = hobby_list
-	@labels = hobby_list.values.flatten.uniq
+	@labels = hobby_list.values.flatten.uniq.sort
   haml :home
 end
 
