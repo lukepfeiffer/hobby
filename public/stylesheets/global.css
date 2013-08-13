@@ -1,6 +1,8 @@
 body{
 	background-color: #ccc;
+	margin: 0;
 }
+
 a{
 	font-size: 14px;
 	font-weight: bold;
@@ -20,15 +22,32 @@ a:hover{
 }
 
 .labels{
+	float: left;
 	width: 50%;
 }
 
 h1{
-	padding: 100px;
 	text-align: center;
-	background: -webkit-linear-gradient( #128215, #0c590e);
 	font-family: sans-serif;
+	font-weight: normal;
+	margin: 0;
+	text-align: center;
+}
+
+header h1{
+	padding: 100px;
+	background: -webkit-linear-gradient( #128215, #0c590e);
 	color: white;
 	font-size: 45px;
 	font-weight: normal;
+	margin: 0;
+}
+
+.suggested_hobbies{
+	float: left;
+	padding-left: 50px
+}
+
+.suggested_hobbies h1{
+	font-size: 36px;
 }
