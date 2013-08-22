@@ -4,9 +4,12 @@ require 'pry'
 require 'json'
 
 get '/' do
-	@hobbies = hobby_list
-	@labels = hobby_list.values.flatten.uniq.sort
+  @labels = hobby_list.values.flatten.uniq.sort
   haml :home
+end
+
+get '/hobbies' do
+  hobby_list.map{|key,value| {name: key, labels: value} }.to_json
 end
 
 def hobby_list
