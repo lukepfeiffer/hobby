@@ -1,5 +1,6 @@
 .labels
-  -@labels.each do |hobby|
-    %a= hobby
+  -@labels.each_with_index do |hobby, index|
+    %a{"data-index"=>"#{index}"}= hobby
 .suggested_hobbies
   %h1 Suggested Hobbies:
+  %ul

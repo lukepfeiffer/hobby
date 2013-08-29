@@ -192,13 +192,13 @@ currency_collecting:
   - money
   - currency
 basketball:
-  - outdoor
+  - outdoors
   - inexpensive
   - team
   - physically intense
   - court
 football:
-  - outdoor
+  - outdoors
   - team
   - expensive
   - physically intense 
@@ -206,7 +206,7 @@ football:
   - field
   - lame
 soccer:
-  - outdoor
+  - outdoors
   - team
   - physically intense
   - field
@@ -214,7 +214,7 @@ soccer:
   - fun
   - inexpensive
 skateboarding:
-  - outdoor
+  - outdoors
   - solo
   - physically intense
   - concrete
@@ -223,7 +223,7 @@ skateboarding:
   - fun
   - inexpensive
 surfing:
-  - outdoor
+  - outdoors
   - solo
   - water sport
   - foot sport
@@ -231,14 +231,14 @@ surfing:
   - dangerous
   - expensive
 skimboarding:
-  - outdoor
+  - outdoors
   - solo
   - water sport
   - fun
   - foot sport
   - expensive
 rollerblading:
-  - outdoor
+  - outdoors
   - solo
   - concrete 
   - lame
